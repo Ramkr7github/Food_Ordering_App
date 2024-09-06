@@ -60,3 +60,11 @@
   padding: 0px 15px;
   border-radius: 5px;
  }
+
+ .search-box {
+  display: flex;
+ }
+
+ .serach-container{
+  display: flex;
+ }
